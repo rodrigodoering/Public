@@ -1,0 +1,2 @@
+
+Created this just to serve as a public landing page for Hubspot App. When initating OAuth2 integration with hubspot, an app redirect url is required while setting the app. I should be redirected to here and get the access code
